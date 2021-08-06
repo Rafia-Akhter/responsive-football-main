@@ -1,0 +1,75 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container h1{
+    width: 485px;
+    height: 230px;
+    color: #FFFFFF;
+    margin-top: 207px;
+    margin-left: 156px;
+    
+
+}
+h3{
+    
+    margin-left: 156px;
+    
+}
+.container{
+    display: flex;
+    width: 1440px;
+    height: 677px;
+    background: #2D25A0;
+
+
+    
+}
+.container .half-width img{
+    width: 556.01px;
+    height: 438px;
+    margin-top: 153px;
+    margin-right: 140.99px;
+    margin-bottom: 86px;
+
+}
+.btn{
+    background-color:#E02C6D;
+    width: 168px;
+    height: 44px;
+    margin-left: 156px;
+    
+    
+}
+section{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 1050px;
+    height: 1988px;
+    margin-top: 85px;
+    margin-left: 180px;
+    margin-right: 210px;
+    background-color:#FFFFFF;
+}
+.player img{
+    width: 300px;
+    height: 256px;
+    margin-right: 30px;
+    margin-bottom: 12px;
+}
+p{
+    width: 300px;
+    height: 104px;
+    color: #6c6c6c;
+}
+.match .blog{
+    width: 466px;
+    height: 309px;
+    margin-top: 224px;
+    margin-right: 65px;
+}
+.match img{
+    width: 567px;
+    height: 427px;
+    margin-top: 165px;
+    margin-right: 156px;
+}
